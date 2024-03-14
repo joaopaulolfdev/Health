@@ -5,4 +5,4 @@ marcações de consultas. Agrega mais eficácia e agilidade no contato com o pú
 É um projeto ainda em desenvolvimento e me permite treinar o desenvolvimento de páginas com
 objetivos práticos para a sociedade.
 
-Tecnologias: HTML, CSS e JAVASCRIPT
+Tecnologias: HTML, CSS e JAVASCRIPT com o Framework jQuery
